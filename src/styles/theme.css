@@ -1,0 +1,16 @@
+
+:root {
+  --page: #b39169;
+  --housing-1: #fdfbf8; --housing-2: #ebe9e5; --housing-3: #d6d5d2;
+  --panel: #f1f0ed; --panel-line: #bbb9b4;
+  --ink: #2a2a2c; --ink-2: #575757; --ink-3: #686867; --ink-4: #969590;
+
+  --orange: #9aaa78; --orange-hi: #bbc8a6; --orange-lo: #718353;
+  --blue: #47765b;   --blue-hi: #78a38a;   --blue-lo: #30543f;
+  --yellow: #c0cd69; --yellow-soft: #dce5a0;
+  --gray: #a29f9b;
+  --red: #d9503f;
+
+  --lcd: #060709; --lcd-frame: #111315;
+  --shadow: 0 2px 3px rgba(40, 34, 28, 0.28), 0 1px 0 rgba(255, 255, 255, 0.8) inset;
+}

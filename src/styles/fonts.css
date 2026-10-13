@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
+
+:root {
+  --font-display: "Inter", Arial, sans-serif;                          
+  --font-ui:      "Inter", Arial, sans-serif;                          
+  --font-mono:    "JetBrains Mono", ui-monospace, Menlo, monospace;    
+
+  --fs-title: 12px;     
+  --fs-label: 10px;     
+  --ls-caps: 0.12em;    
+}
